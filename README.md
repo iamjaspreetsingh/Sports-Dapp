@@ -1,6 +1,5 @@
-# Desportivos : Decentralised Sports Fantasy
+# SportsDapp : Decentralised Sports Fantasy
 
-### Game Oasis Hackathon 
 
 ### Our Solution
 Lesser power to people as the fantasy apps tend to cut the middlemen fees for every transaction. No choice to create personalised fantasy game for others. Lesser options to have variety in fantasy apps. 3 options for people: Integer voting, MCQ voting and Play Along.Questions can be created by anyone with any participation fees and participants they want. Our backend NLP algorithms predict the output based on live feed's output dynamically without any human intervention.
@@ -35,3 +34,7 @@ https://bit.ly/34a09pY
 4. After creating question or participating you actually can verify it on blockchain as Snackbar pops up. You can view the tables.
 
 Enjoy:)
+
+### Special Thanks: 
+#### -> Game Oasis Hackathon
+#### -> Contentos Blockchain 
